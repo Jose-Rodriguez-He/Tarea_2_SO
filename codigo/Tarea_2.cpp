@@ -13,6 +13,7 @@ void leerArchivo(string nombreArchivo, string paquetes);
 void crearHebras(string ip, string paquetes);
 void ping(string ip,string paquetes);
 void escribrir(string valores);
+
 //Variables
 int num_hebras;
 int n_hebras=0;
