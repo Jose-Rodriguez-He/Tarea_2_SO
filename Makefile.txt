@@ -1,0 +1,5 @@
+main:
+	g++ Tarea_2.cpp -o Tarea_2
+
+clean: 
+	rm Tarea_2.cpp o Tarea_2
